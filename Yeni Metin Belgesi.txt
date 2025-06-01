@@ -1,0 +1,2 @@
+En soldaki üçlü kısım pil in + ortası deneyap gnd ve pil - tarafı.
+
